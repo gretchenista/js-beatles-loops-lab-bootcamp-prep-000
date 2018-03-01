@@ -22,7 +22,7 @@ function iLoveTheBeatles () {
   do {
     return ("I love the Beatles!");
   } while (i < 15) {
-    i++;
   return ("I love the Beatles!")
+  i++;
   }
 }
